@@ -1,3 +1,7 @@
+This has been adopted by the TLS working group.  It has a new home:
+
+https://github.com/tlswg/draft-ietf-tls-tls13-vectors
+
 # Example Handshake Traces for TLS 1.3
 
 This is the working area for the Individual internet-draft, "Example Handshake
